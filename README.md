@@ -1,6 +1,6 @@
 # pyjte
 
-[J&T Express](https://www.jtexpress.my) Commandline Tracker
+[J&T Express](https://www.jtexpress.my) Command-line Tracker
 
 ```
 ~/pyjte > py3 jte.py 823971856200
