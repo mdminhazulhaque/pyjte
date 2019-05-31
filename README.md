@@ -3,7 +3,7 @@
 [J&T Express](https://www.jtexpress.my) Command-line Tracker
 
 ```
-~/pyjte > py3 jte.py 823971856200
+~ > python3 jte.py 823971856200
 Date        Time      Description                 City    State
 ----------  --------  --------------------------  ------  -----------
 05/31/2019  09:07:41  Drop Point CDC TSI KEPONG   KEPONG  On Delivery
